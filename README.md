@@ -9,3 +9,4 @@ Hmm,let me upload the zh-CN.lang……
 他没有投到github上。
 之后，
 我###的你咋把title和时钟删了
+没啊，我不是搞了个script.js吗？？？？？？？？？？？？？？？？？？？？？？？？？
